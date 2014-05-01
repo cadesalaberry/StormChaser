@@ -22,7 +22,7 @@ The basic task has been described as follows:
 Construct an autonomous one-on-one basketball-playing robot capable of navigating about an enclosed field populated with known obstacles placed at restricted locations within the enclosure.
 
 
-![Field Layout](./assets/images/field.jpg)
+![Field Layout](./assets/images/field.png)
 
 
 Upon receiving instructions on Bluetooth radio, the robot will assume the role of either a forward or a defender and proceed according to its role. If the role assigned is forward, the robot proceeds to the ball dispenser located at coordinates sent by Bluetooth, retrieves a ball, and then attempts to score on the basket while staying out of the defender’s zone. If the role assigned is defender, the robot moves to the defender zone and attempts to block any shots on the basket. Play proceeds until balls are exhausted or the 10 minute time limit is reached.

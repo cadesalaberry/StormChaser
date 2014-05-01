@@ -1,7 +1,7 @@
 StormChaser
 ===========
 
-![Banner](./assets/images/programming.png)
+![Banner](./assets/images/programming.jpg)
 
 
 ## Software Architecture
